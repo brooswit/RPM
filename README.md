@@ -1,2 +1,2 @@
 # RPM.js
-Revese Polish Machine(RPM) is a custom Reverse Polish Notation implementation
+Revese Polish Machine(RPM) is a custom Reverse Polish Notation interpreter implementation
